@@ -37,7 +37,7 @@ Royal Hostel Pvt Ltd is a modern, responsive website template for a hostel busin
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/royal-hostel-pvt-ltd.git
+   https://github.com/abdullahsohail-00/Royal-Hostels-Pvt-Ltd-Website.git
    ```
 2. **Open `index.html` in your browser.**
    - No build step required; all dependencies are included.
